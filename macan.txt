@@ -1,0 +1,63 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="NetTV.MACAN" tvg-logo="https://macan.live/img/net.png" group-title="Lokal FTA", NET.
+https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="SCTV.MACAN" tvg-logo="https://macan.live/img/sctv.png" group-title="Lokal FTA", SCTV
+https://delivery.macan.live/stream/id_sctv/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="Trans7.MACAN" tvg-logo="https://macan.live/img/trans7.png" group-title="Lokal FTA", TRANS 7
+https://delivery.macan.live/stream/id_trans7/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="TransTV.MACAN" tvg-logo="https://macan.live/img/transtv.png" group-title="Lokal FTA", TRANS TV
+https://delivery.macan.live/stream/id_transtv/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="CNNIndonesia.MACAN" tvg-logo="https://macan.live/img/cnn.png" group-title="Lokal FTA", CNN Indonesia
+https://delivery.macan.live/stream/id_cnn/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="CNBCIndonesia.MACAN" tvg-logo="https://macan.live/img/cnbc.png" group-title="Lokal FTA", CNBC Indonesia
+https://delivery.macan.live/stream/id_cnbc/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="ANTV.MACAN" tvg-logo="https://macan.live/img/antv.png" group-title="Lokal FTA", ANTV
+https://delivery.macan.live/stream/id_antv/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="JTV.MACAN" tvg-logo="https://macan.live/img/jtv.png" group-title="Lokal FTA", JTV
+https://delivery.macan.live/stream/id_jtv/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="TVOne.MACAN" tvg-logo="https://macan.live/img/tvone.png" group-title="Lokal FTA", TVOne
+https://delivery.macan.live/stream/id_tvone/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="KompasTv.MACAN" tvg-logo="https://macan.live/img/kompastv.png" group-title="Lokal FTA", KOMPAS TV
+https://delivery.macan.live/stream/id_kompastv/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="MetroTV.MACAN" tvg-logo="https://macan.live/img/metrotv.png" group-title="Lokal FTA", METRO TV
+https://delivery.macan.live/stream/id_metrotv/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="DaaiTv.MACAN" tvg-logo="https://macan.live/img/daaitv.png" group-title="Lokal FTA", DAAI TV
+https://delivery.macan.live/stream/id_daai/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="JakTV.MACAN" tvg-logo="https://macan.live/img/jaktv.png" group-title="Lokal FTA", JAKTV
+https://delivery.macan.live/stream/id_jaktv/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="BeritaSatu.MACAN" tvg-logo="https://macan.live/img/beritasatu.png" group-title="Lokal FTA", BeritaSatu
+https://delivery.macan.live/stream/id_beritasatu/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="RTV.MACAN" tvg-logo="https://macan.live/img/rtv.png" group-title="Lokal FTA", RTV
+https://delivery.macan.live/stream/id_rajawalitv/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="TVRI.MACAN" tvg-logo="https://macan.live/img/tvri.png" group-title="Lokal FTA", TVRI Nasional
+https://delivery.macan.live/stream/id_tvri/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="SalamTV.MACAN" tvg-logo="https://macan.live/img/salam_tv.png" group-title="Lokal FTA", Salam TV
+https://delivery.macan.live/stream/salam_tv/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="MTVLive.nl" tvg-logo="https://macan.live/img/mtv_live.png" group-title="Music", MTV Live HD
+https://delivery.macan.live/stream/mtv_live/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="EKonser.id" tvg-logo="https://macan.live/img/e_konser.png" group-title="Music", E-Konser
+https://delivery.macan.live/stream/e_konser/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="LoveNature.uk" tvg-logo="https://macan.live/img/love_nature.png" group-title="Knowledge", Love Nature
+https://delivery.macan.live/stream/love_nature/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-logo="https://macan.live/img/fox_movies_premium.png" group-title="Movies", FOX Movies Premium
+https://delivery.macan.live/stream/id_foxmoviespremium/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-logo="https://macan.live/img/fox_family_movies.png" group-title="Movies", FOX Family Movies (ENG)
+https://delivery.macan.live/stream/id_foxfamilymovies/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-logo="https://macan.live/img/fox_family_movies.png" group-title="Movies", FOX Family Movies (IDN)
+https://delivery.macan.live/stream/foxfamilymovies_idn/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="HBOHD.MACAN" tvg-logo="https://macan.live/img/hbo.png" group-title="Movies", HBO
+https://delivery.macan.live/stream/hbo/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://macan.live/img/hbo_family.png" group-title="Movies", HBO Family
+https://delivery.macan.live/stream/hbo_family/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://macan.live/img/hbo_hits.png" group-title="Movies", HBO Hits
+https://delivery.macan.live/stream/hbo_hits/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://macan.live/img/hbo_signature.png" group-title="Movies", HBO Signature
+https://delivery.macan.live/stream/hbo_signature/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="RED.MACAN" tvg-logo="https://macan.live/img/red_hbo.png" group-title="Movies", RED by HBO
+https://delivery.macan.live/stream/redhbo/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="CINEMAX.MACAN" tvg-logo="https://macan.live/img/cinemaxa.png" group-title="Movies", Cinemax by HBO
+https://delivery.macan.live/stream/cinemax/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="TVN.MACAN" tvg-logo="https://macan.live/img/tvn.png" group-title="Korea", tvN
+https://delivery.macan.live/stream/id_tvn/playlist.m3u8?token=macangratisan&v=1234
+#EXTINF: -1 tvg-id="TVNMovies.MACAN" tvg-logo="https://macan.live/img/tvn_movies.png" group-title="Korea", tvN Movies
+https://delivery.macan.live/stream/tvn_movies/playlist.m3u8?token=macangratisan&v=1234
